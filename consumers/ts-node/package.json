@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "effect": "workspace:2.0.0"
+  }
+}

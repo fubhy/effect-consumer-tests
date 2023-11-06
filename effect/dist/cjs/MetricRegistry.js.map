@@ -1,0 +1,1 @@
+{"version":3,"file":"MetricRegistry.js","names":["internal","require","exports","MetricRegistryTypeId","make"],"sources":["../../src/MetricRegistry.ts"],"sourcesContent":[null],"mappings":";;;;;;AAIA,MAAAA,QAAA,gBAAAC,OAAA;AAMA;;;;AAIaC,OAAA,CAAAC,oBAAoB,GAAkBH,QAAQ,CAACG,oBAAoB;AA4BhF;;;;AAIaD,OAAA,CAAAE,IAAI,GAAgCJ,QAAQ,CAACI,IAAI"}

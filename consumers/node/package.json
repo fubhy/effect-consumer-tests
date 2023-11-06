@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "node mjs/index.mjs && node cjs/index.cjs"
+  },
+  "dependencies": {
+    "effect": "workspace:2.0.0"
+  }
+}

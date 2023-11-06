@@ -1,0 +1,1 @@
+{"version":3,"file":"deferred.js","names":["exports","OP_STATE_PENDING","OP_STATE_DONE"],"sources":["../../../../src/internal/opCodes/deferred.ts"],"sourcesContent":[null],"mappings":";;;;;;AAAA;AACaA,OAAA,CAAAC,gBAAgB,GAAG,SAAkB;AAKlD;AACaD,OAAA,CAAAE,aAAa,GAAG,MAAe"}
